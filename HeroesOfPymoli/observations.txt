@@ -1,0 +1,4 @@
+1. About 43% of players age is between 20-24. Most money was generated from this age group. But average purchase price was highest with $3.09 for age group 29-34.
+2. The most popular item was 'Retribution Axe' with 9 purchases. It made $37.26
+3. The customer base of Heroes of Pymoli is predominantly male at 84% of total players. Female players only represent 14% of their customer base 
+but they marginally spend more per item ($3.20 vs. $3.02)
